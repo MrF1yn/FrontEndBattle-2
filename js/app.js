@@ -150,7 +150,7 @@ tl.to('.img4', {
   duration: 5,
   left: "-20vw",
   ease: "slow(0.7,0.7,false)",
-}, "-=2.5");
+}, "-=1.5");
 tl.to('.img6', {
   duration: 5,
   left: "0vw",
