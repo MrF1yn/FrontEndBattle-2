@@ -151,17 +151,12 @@ tl.to('.img4', {
   left: "-20vw",
   ease: "slow(0.7,0.7,false)",
 }, "-=2.5");
-tl.to('.img5', {
-  duration: 5,
-  left: "-20vw",
-  ease: "slow(0.7,0.7,false)",
-}, "-=2.5");
 tl.to('.img6', {
   duration: 5,
   left: "0vw",
   ease: "slow(0.7,0.7,false)",
 }, "-=2.5");
-tl.set('.img5 .img4 .img3 .img1', {
+tl.set('.img4 .img3 .img1', {
   left: "100vw",
 });
 
